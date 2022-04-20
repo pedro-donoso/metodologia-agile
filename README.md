@@ -17,11 +17,6 @@ Se constituye un equipo formado por diferentes agentes dentro de la misma organi
 - Revisión: El equipo y los usuarios revisan lo construido hasta el momento
 - Cierre: Al llegar a la fecha determinada se entrega una versión del producto, no implica el final del proyecto ya que pueden surgir mejoras
 
-## Resumen 
- Metodologías Ágiles son diferentes hábitos y estrategias extraídos de diferentes metodologías que pueden ser aplicadas en la gestión de los proyectos y en la gestión de los desarrollos propiamente dichos, para poder implantar agilidad en una empresa es crucial determinar la problemática de cada área en particular para poder determinar cual es la práctica de la metodología ágil de entre todas las que hay que puede ser aplicada en cada área o proyecto.
-
- La metodología consiste en todos los datos que se recogen a la hora de planificar y gestionar un proyecto, con el fin de seleccionar las técnicas o métodos concretos para realizar un diagnóstico del problema y posteriormente ofrecer estrategias y procedimientos que permitan solucionar los inconvenientes de manera apropiada.
-
 ## Ventajas de la metodología
 Cuando una empresa adopta una metodología para cada uno de sus procesos consigue mejores resultados, ya que es una buena práctica para estimar los recursos, tiempos y coste del proyecto. Otras de las ventajas de la metodología son:
 - Facilita la planificación del proyecto en general.
@@ -29,6 +24,9 @@ Cuando una empresa adopta una metodología para cada uno de sus procesos consigu
 - Fomenta la responsabilidad en los miembros que integran el equipo.
 - Emplea soluciones a medida que se desarrolla el trabajo sin necesidad de esperar el final.
 - Otorga flexibilidad laboral a los empleados de la empresa.
+- 
+## Resumen 
+ Metodologías Ágiles son diferentes hábitos y estrategias extraídos de diferentes metodologías que pueden ser aplicadas en la gestión de los proyectos y en la gestión de los desarrollos propiamente dichos, para poder implantar agilidad en una empresa es crucial determinar la problemática de cada área en particular para poder determinar cual es la práctica de la metodología ágil de entre todas las que hay que puede ser aplicada en cada área o proyecto.
 
-## Conclusión
-Cuando se emplea una metodología en la gestión de proyectos la manera de trabajar se estandariza, es estructurada y organizada. Además, en cada fase del proyecto se puede tener aciertos y errores, por lo cual, sirve para adquirir la experiencia necesaria en el manejo de problemáticas y aporte de estrategias.
+La metodología consiste en todos los datos que se recogen a la hora de planificar y gestionar un proyecto, con el fin de seleccionar las técnicas o métodos concretos para realizar un diagnóstico del problema y posteriormente ofrecer estrategias y procedimientos que permitan solucionar los inconvenientes de manera apropiada.
+
