@@ -27,6 +27,3 @@ Cuando una empresa adopta una metodología para cada uno de sus procesos consigu
 
 ## Resumen 
  Metodologías Ágiles son diferentes hábitos y estrategias extraídos de diferentes metodologías que pueden ser aplicadas en la gestión de los proyectos y en la gestión de los desarrollos propiamente dichos, para poder implantar agilidad en una empresa es crucial determinar la problemática de cada área en particular para poder determinar cual es la práctica de la metodología ágil de entre todas las que hay que puede ser aplicada en cada área o proyecto.
-
-La metodología consiste en todos los datos que se recogen a la hora de planificar y gestionar un proyecto, con el fin de seleccionar las técnicas o métodos concretos para realizar un diagnóstico del problema y posteriormente ofrecer estrategias y procedimientos que permitan solucionar los inconvenientes de manera apropiada.
-
