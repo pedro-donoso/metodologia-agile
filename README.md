@@ -1,4 +1,5 @@
 ![agile](https://user-images.githubusercontent.com/68760595/164270757-6bfdcd71-4fc9-4566-a247-0dd6fe6a5ec4.jpg)
+
 ```Metodologías Ágiles son diferentes hábitos y estrategias extraídos de diferentes metodologías que pueden ser aplicadas en la gestión de los proyectos y en la gestión de los desarrollos propiamente dichos, para poder implantar agilidad en una empresa es crucial determinar la problemática de cada área en particular para poder determinar cual es la práctica de la metodología ágil de entre todas las que hay que puede ser aplicada en cada área o proyecto.```
 
 - Se valora a los individuos y su interacción, por encima de los procesos y herramientas
