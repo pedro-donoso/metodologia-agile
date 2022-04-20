@@ -18,7 +18,7 @@ Se constituye un equipo formado por diferentes agentes dentro de la misma organi
 5. Cierre: Al llegar a la fecha determinada se entrega una versión del producto, no implica el final del proyecto ya que pueden surgir mejoras
 
 ## Ventajas de la metodología
-Cuando una empresa adopta una metodología para cada uno de sus procesos consigue mejores resultados, ya que es una buena práctica para estimar los recursos, tiempos y coste del proyecto. Otras de las ventajas de la metodología son:
+Cuando una empresa adopta una metodología para cada uno de sus procesos consigue mejores resultados, ya que es una buena práctica para estimar los recursos, tiempos y coste del proyecto:
 - Facilita la planificación del proyecto en general.
 - Posibilita la priorización y la toma de decisiones en el proyecto.
 - Fomenta la responsabilidad en los miembros que integran el equipo.
