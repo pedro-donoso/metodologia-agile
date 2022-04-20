@@ -11,11 +11,11 @@ La prioridad de ésta metodología es satisfacer al cliente a través de la entr
 Se constituye un equipo formado por diferentes agentes dentro de la misma organización para que trabajen juntos con el mismo objetivo, involucrando al cliente también en el desarrollo del proyecto desde el primer momento.
 
 ## Ciclo de vida ágil
-- Concepto: Se crea la visión del producto o servicio y se determina el equipo que la llevará a cabo
-- Especulación:  A partir de la visión se establece como objetivo un conjunto de funcionalidades 
-- Exploración: Se desarrolla un incremento que contendrá las funcionalidades determinadas en la fase anterior
-- Revisión: El equipo y los usuarios revisan lo construido hasta el momento
-- Cierre: Al llegar a la fecha determinada se entrega una versión del producto, no implica el final del proyecto ya que pueden surgir mejoras
+1. Concepto: Se crea la visión del producto o servicio y se determina el equipo que la llevará a cabo
+2. Especulación:  A partir de la visión se establece como objetivo un conjunto de funcionalidades 
+3. Exploración: Se desarrolla un incremento que contendrá las funcionalidades determinadas en la fase anterior
+4. Revisión: El equipo y los usuarios revisan lo construido hasta el momento
+5. Cierre: Al llegar a la fecha determinada se entrega una versión del producto, no implica el final del proyecto ya que pueden surgir mejoras
 
 ## Ventajas de la metodología
 Cuando una empresa adopta una metodología para cada uno de sus procesos consigue mejores resultados, ya que es una buena práctica para estimar los recursos, tiempos y coste del proyecto. Otras de las ventajas de la metodología son:
@@ -24,7 +24,7 @@ Cuando una empresa adopta una metodología para cada uno de sus procesos consigu
 - Fomenta la responsabilidad en los miembros que integran el equipo.
 - Emplea soluciones a medida que se desarrolla el trabajo sin necesidad de esperar el final.
 - Otorga flexibilidad laboral a los empleados de la empresa.
-- 
+
 ## Resumen 
  Metodologías Ágiles son diferentes hábitos y estrategias extraídos de diferentes metodologías que pueden ser aplicadas en la gestión de los proyectos y en la gestión de los desarrollos propiamente dichos, para poder implantar agilidad en una empresa es crucial determinar la problemática de cada área en particular para poder determinar cual es la práctica de la metodología ágil de entre todas las que hay que puede ser aplicada en cada área o proyecto.
 
